@@ -26,15 +26,6 @@ Learning: Python, AI, Flask, SQL
 ## Languages
 - 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 
-## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SeanJ-Developer&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Sean stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanJ-Developer&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Sean top languages"/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeanJ-Developer/SeanJ-Developer/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SeanJ-Developer/SeanJ-Developer/output/github-contribution-grid-snake.svg">
-[Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
+[Made with ReadmeForge - Really helpful to me ❤️, Sean](https://lebedevnet.github.io/ReadmeForge/)
